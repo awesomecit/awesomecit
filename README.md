@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there, i'm Cit 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomecit&show_icons=true&theme=radical)
+
+ <img src="https://github-readme-stats.vercel.app/api?username=awesomecit&show_icons=true&theme=radical" width="47%" align="left"> 
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awesomecit&show_icons=true&theme=compact" width="47%" align="left">  
